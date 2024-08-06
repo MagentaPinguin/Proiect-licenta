@@ -8,7 +8,7 @@ module.exports = {
         shield: "url('./media/shield.png')",
       },
       colors: {
-        "custom-dark": "rgba(0, 0, 0, 0.2)",
+        "custom-dark": "rgba(0, 0, 0, 0.3)",
       },
     },
   },
